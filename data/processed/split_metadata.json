@@ -1,0 +1,29 @@
+{
+  "train": {
+    "count": 702,
+    "class_distribution": {
+      "Tomato___healthy": 218,
+      "Tomato___Early_blight": 135,
+      "Tomato___Late_blight": 227,
+      "Tomato___Leaf_Mold": 122
+    }
+  },
+  "validation": {
+    "count": 217,
+    "class_distribution": {
+      "Tomato___healthy": 67,
+      "Tomato___Early_blight": 42,
+      "Tomato___Late_blight": 70,
+      "Tomato___Leaf_Mold": 38
+    }
+  },
+  "test": {
+    "count": 163,
+    "class_distribution": {
+      "Tomato___healthy": 50,
+      "Tomato___Early_blight": 32,
+      "Tomato___Late_blight": 53,
+      "Tomato___Leaf_Mold": 28
+    }
+  }
+}

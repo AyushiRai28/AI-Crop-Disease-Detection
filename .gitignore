@@ -1,0 +1,40 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# Secrets, credentials & environment files
+.env
+.env.*
+*.key
+*.pem
+*.token
+credentials.json
+kaggle.json
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Intermediate / large download caches
+data/downloads/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
